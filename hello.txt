@@ -12,10 +12,7 @@ yong-1125xiugaile 111111111111111111111
 
 yong-1125ercixiugai22222222222222222222
 
-<<<<<<< HEAD
 11111111111111111111111111111111
 yong-1125 three cixiugai
-=======
 
 jia-1125 woyexiugaile addddddddd
->>>>>>> dcf87a9dd4bcb9675c7e9cbc29b6d13519de17f5
